@@ -1,5 +1,5 @@
 # 2021'de Zinciri Kırma
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://forthebadge.com)
+<img src="https://forthebadge.com/images/badges/made-with-rust.svg" height="40" width="180"></img>
 
 https://www.youtube.com/watch?v=aCepG-VIpIU
