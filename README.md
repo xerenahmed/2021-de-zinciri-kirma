@@ -5,3 +5,15 @@
 <img src="https://user-images.githubusercontent.com/35738714/103177245-d9feb580-4889-11eb-81fe-f44ee04667f6.png"></img>
 
 https://www.youtube.com/watch?v=aCepG-VIpIU
+
+# Derleme
+```
+cargo build
+
+// generated to $(pwd)/target/debug/zincirikırma
+```
+
+# Çalıştırma
+```
+cargo run
+```
