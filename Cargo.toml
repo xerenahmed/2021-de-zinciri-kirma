@@ -1,0 +1,8 @@
+[package]
+name = "zincirikırma"
+version = "0.1.0"
+authors = ["Eren A. Akyol <ahmederen123@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+text_io = "0.1.8"
